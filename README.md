@@ -29,6 +29,13 @@ The project combines:
 
 Dataset Used:
 - ISOT Fake News Dataset
+  
+Download Dataset:
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
+Place the files inside this folder:
+- Fake.csv
+- True.csv
 
 Balanced Dataset:
 - 1000 Real News Articles
@@ -156,7 +163,7 @@ Some real news articles were misclassified as fake because they contained:
 
 Detailed report available here:
 
-[Project Report](report/DA-ReportFinal_NLP_23BLC1230.pdf)
+[Project Report](report/Report_Fake_news_classifier.pdf)
 
 ---
 
